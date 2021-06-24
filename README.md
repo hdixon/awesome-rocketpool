@@ -66,7 +66,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 * :newspaper: [Bankless Newsletter - How Ethereum Can Democratize ETH2 Staking](https://newsletter.banklesshq.com/p/how-ethereum-can-democratize-eth2)
 * :newspaper: [Crypto Briefing - Defi Project Spotlight - Rocket Pool, Staking Service for Ethereum 2.0](https://cryptobriefing.com/defi-project-spotlight-rocket-pool-staking-service-ethereum-2-0/)
-* :newspaper: [Shrimpy Academy - What Is Rocket Pool?](https://academy.shrimpy.io/post/what-is-rocket-pool)
+* :warning: :newspaper: [Shrimpy Academy - What Is Rocket Pool?](https://academy.shrimpy.io/post/what-is-rocket-pool) *note: out of date and misleading*
 * :tv: [Bankless - Interview w/ CTO David Rugendyke](https://www.youtube.com/watch?v=cqf6aJCFZn8)
 * :tv: [Bankless - David Hoffman on RocketPool mechanics](https://www.youtube.com/watch?v=JAatzA-QE10&t=516s)
 * :tv: [EthHub Weekly - Why Rocketpool is truly decentralized](https://www.youtube.com/watch?v=8o-_Dw_qSfk&t=2607s)
